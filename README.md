@@ -57,7 +57,7 @@ lovable-clone/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/lovable-clone.git
+git clone https://github.com/ShreerajGaikwad/lovable-clone.git
 2️⃣ Navigate to project folder
 cd lovable-clone
 3️⃣ Install dependencies
