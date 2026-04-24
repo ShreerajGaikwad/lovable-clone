@@ -25,7 +25,7 @@ public class ProjectTemplateServiceImpl implements ProjectTemplateService {
     private final ProjectFileRepository projectFileRepository;
     private final ProjectRepository projectRepository;
 
-    private static final String TEMPLATE_BUCKET = "starter-projects";
+    private static final String TEMPLATE_BUCKET = "starter-projects"; // MINIO FOLDER WHERE TEMPLATES ARE STORED
     private static final String TARGET_BUCKET = "projects";
     private static final String TEMPLATE_NAME = "react-vite-tailwind-daisyui-starter";
 
